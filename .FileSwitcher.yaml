@@ -1,0 +1,6 @@
+always:
+    .内容/.always
+cache:
+    .内容/.cache
+path:
+    .内容/2024/暑假
